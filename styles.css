@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.hero {
+    margin: 4rem auto;
+}
+
+.main .products {
+    width: 100%;
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.main  .products img {
+    width: 8rem;
+    height: 8rem;
+}
